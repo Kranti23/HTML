@@ -1,0 +1,22 @@
+h1 {
+
+color: red;
+background-color:lightgoldenrodyellow;
+
+}
+
+.remove {
+    color:royalblue;
+    background-color:lightcyan;
+}
+
+.down {
+color:pink;
+background-color:lightslategrey;
+}
+
+#add {
+
+    color:brown;
+    background-color: lightgreen;
+}

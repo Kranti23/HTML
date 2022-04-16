@@ -1,0 +1,21 @@
+h1  {
+    color:black;
+    background-color:aqua;
+    height:100px;
+    width: 400px;
+}
+
+p {
+         color :blue;
+         background-color: yellow;
+}
+
+.fruit {
+    color: black;
+    background-color:pink;
+}
+
+#name {
+        color : black;
+        background-color : lightgreen;
+}

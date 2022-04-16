@@ -1,0 +1,26 @@
+h1 { 
+    
+ color: black;
+
+ /* height : 50px;
+ width : 200px; */
+
+}
+
+.job {
+
+   color:blue;
+   background-color: aqua;
+
+}
+
+#mtech {
+
+    color:yellow ;
+    background-color:green;
+}
+
+#key {
+    color:deeppink;
+    background-color:lightyellow;
+}
